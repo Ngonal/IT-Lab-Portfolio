@@ -21,7 +21,7 @@ All three conditions required correction to restore full connectivity.
 ---
 
 <p align="center">
-  <a href="../../../">🏠 Home</a> &nbsp;|&nbsp;
+  <a href="../../../../README">🏠 Home</a> &nbsp;|&nbsp;
   <a href="../../">📁 Layer 1 - Physical</a> &nbsp;|&nbsp;
   <a href="../">🔧 Troubleshooting</a> &nbsp;
 </p>
