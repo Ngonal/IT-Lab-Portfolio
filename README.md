@@ -1,7 +1,19 @@
 # Information
 Hands-on lab portfolio showcasing practical experience in switching, routing, and security configurations, progressing from foundational setups to increasingly advanced and complex implementations. The Labs and their significance will be organized via the TCP/IP 5-Layer Network Model. A variety of networking simulators and emulators will be used depending on lab complexity. Emulator/Simulator software considered but not limited to: 
 
-<img src="README%20Elements/Cisco-Packet-Tracer-logo.png" width="80" title="Cisco Packet Tracer"> <img src="README%20Elements/EVE-NG-logo.png" width="80" title="EVE-NG"> <img src="README%20Elements/GNS3-logo.png" width="80" title="GNS3">
+Emulator/Simulator software considered but not limited to:
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><img src="README%20Elements/Cisco-Packet-Tracer-logo.png" width="40"><br>Cisco Packet Tracer</td>
+      <td align="center" width="40"></td>
+      <td align="center"><img src="README%20Elements/EVE-NG-logo.png" width="40"><br>EVE-NG</td>
+      <td align="center" width="40"></td>
+      <td align="center"><img src="README%20Elements/GNS3-logo.png" width="40"><br>GNS3</td>
+    </tr>
+  </table>
+</p>
 
 ---
 
