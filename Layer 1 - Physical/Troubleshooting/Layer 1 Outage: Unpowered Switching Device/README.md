@@ -4,6 +4,8 @@ Two hosts are connected to a common Layer 2 device but exhibit no link-layer con
 
 ## Diagnosis Log
 
+<img src="Elements/Step1.png">
+
 | Step | Observation | Action Taken | Result | Image |
 |:---|:---|:---|:---|:---:| 
 | 1 | One cable is disconnected from `Fa0/1` | Reconnected cable to `Fa0/1` | No change; switch LEDs remain unilluminated | <img src="Elements/Step1.png"> |
