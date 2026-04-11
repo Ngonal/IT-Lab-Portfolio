@@ -1,4 +1,6 @@
 # Layer 1 Outage: Unpowered Switching Device
+## Description
+Two hosts are connected to a common Layer 2 device but exhibit no link-layer connectivity. All interface LEDs on the switching device are dark, suggesting an absence of electrical power. Troubleshooting focuses on power sourcing, cabling integrity, and hardware failure indicators.
 
 ## Diagnosis Log
 
