@@ -6,4 +6,9 @@ The Network Layer is responsible for logical addressing, path determination, and
 ## Key Concepts Demonstrated
     -
 ## Common Commands
+# Cisco IOS / IOS XE
+    -
+# Juniper Junos OS
+    -
+# Fortinet FortiOS
     -
