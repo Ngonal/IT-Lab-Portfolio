@@ -7,11 +7,6 @@ Hands-on lab portfolio showcasing practical experience in switching, routing, an
 
 | Layer | Labs |
 |---|---|
-| 1 - Physical | [![Packet Tracer](https://img.shields.io/badge/PT-1BA0D7?style=flat&logo=cisco)](Layer%201%20-%20Physical) [![EVE-NG](https://img.shields.io/badge/EVE-0052CC?style=flat)](Layer%201%20-%20Physical) |
-| 2 - Data Link | [![Packet Tracer](https://img.shields.io/badge/PT-1BA0D7?style=flat&logo=cisco)](Layer%202%20-%20Data%20Link) [![EVE-NG](https://img.shields.io/badge/EVE-0052CC?style=flat)](Layer%202%20-%20Data%20Link) |
-
-| Layer | Labs |
-|---|---|
 | 1 - Physical | [View Labs](Layer%201%20-%20Physical) |
 | 2 - Data Link | [View Labs](Layer%202%20-%20Data%20Link) |
 | 3 - Network | [View Labs](Layer%203%20-%20Network) |
