@@ -16,4 +16,4 @@ Hands-on lab portfolio showcasing practical experience in switching, routing, an
 
 | Layer | Packet Tracer | EVE-NG | GNS3 |
 |---|---|---|---|
-| 1 - Physical | [<img src="assets/packet-tracer-logo.png" width="30">](Layer%201%20-%20Physical) | [<img src="assets/eve-ng-logo.png" width="30">](Layer%201%20-%20Physical) | [<img src="assets/gns3-logo.png" width="30">](Layer%201%20-%20Physical) |
+| 1 - Physical | [<img src="README%20Elements/packet-tracer-logo.png" width="30">](Layer%201%20-%20Physical) | [<img src="README%20Elements/eve-ng-logo.png" width="30">](Layer%201%20-%20Physical) | [<img src="README%20Elements/gns3-logo.png" width="30">](Layer%201%20-%20Physical) |
