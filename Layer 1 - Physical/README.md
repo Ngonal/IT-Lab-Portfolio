@@ -19,9 +19,12 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
 - 
 ## Common Commands
 ### Cisco IOS / IOS XE
-- **(no) shutdown** - administratively enables or disables the interface at Layer 1
-- **show ip interface brief** - displays the status of all Routed ports and Switchports
-- **show interface status** - displays the status of all Switchports
+- **`(no) shutdown`**  
+Changes the administrative state of an interface. `shutdown` disables the interface, placing it in `administratively down` status and preventing any Layer 1 or Layer 2 activity. `no shutdown` enables the interface, allowing it to attempt link establishment.
+- **`show ip interface brief`**  
+Displays a concise summary of all interfaces configured for IP routing, including their IP addresses, status, and protocol state. Useful for quickly identifying which Layer 3 interfaces are operationally up or down.
+- **`show interfaces status`**  
+Provides a high-level overview of all switchports, including VLAN membership, duplex and speed settings, link status, and whether the port is in an errdisabled state. Primarily used on access layer switches for Layer 1 and Layer 2 verification.
 ### Juniper Junos OS
 - 
 ### Fortinet FortiOS
