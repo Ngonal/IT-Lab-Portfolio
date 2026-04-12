@@ -29,6 +29,9 @@ Provides a high-level overview of all switchports, including VLAN membership, du
 - 
 ### Fortinet FortiOS
 - 
+
+---
+
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;|&nbsp;
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/Layer%202%20-%20Data%20Link/">📁 Layer 2 - Data Link</a> &nbsp;|&nbsp;
