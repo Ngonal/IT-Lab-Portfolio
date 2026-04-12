@@ -23,6 +23,9 @@ The Transport Layer provides end-to-end (application-to-application) communicati
 - 
 ### Fortinet FortiOS
 - 
+
+---
+
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;|&nbsp;
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/Layer%201%20-%20Physical/">📁 Layer 1 - Physical</a> &nbsp;|&nbsp;
