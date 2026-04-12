@@ -14,13 +14,7 @@
 </table>
 
 <p align="center">
-  <sub>⚠️ The lab file is provided in its <b>initial broken state</b>. Follow the diagnosis log below to troubleshoot and restore connectivity.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ngonal/Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Layer%201%20Outage:%20Unpowered%20Switching%20Device/Layer%201%20Outage%20Unpowered%20Switching%20Device.pkt">
-    <kbd>⬇️ Download .pkt Lab File</kbd>
-  </a>
+  <sub>⚠️ The lab file is provided in its <b>initial state</b>. Follow the log below to complete the objectives.</sub>
 </p>
 
 ## Description
