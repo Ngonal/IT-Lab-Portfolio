@@ -43,6 +43,8 @@ The root cause was a combination of Layer 1 failures:
 
 All three conditions required correction to restore full connectivity.
 
+---
+
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;|&nbsp;
   <a href="../">🔙 Return</a> &nbsp;
