@@ -36,7 +36,7 @@ The `show ip interface brief` command provides a quick health check of all inter
   <i>Example: Fa0/1 showing "down/down" status after issuing `no shutdown`</i>
 </p>
 
-## Results
+## Conclusion
 The root cause was a combination of Layer 1 failures:
 1. **Physical:** Disconnected cable and unpowered switch
 2. **Administrative:** Interface in `shutdown` state
