@@ -27,5 +27,5 @@ All three conditions required correction to restore full connectivity.
 
 <p align="center">
   <a href="https://github.com/Ngonal/Computer-Networking-Lab-Portfolio/blob/main/README.md">🏠 Home</a> &nbsp;|&nbsp;
-  <a href="../">🔙 Return</a> &nbsp;|&nbsp;
+  <a href="../">🔙 Return</a> &nbsp;
 </p>
