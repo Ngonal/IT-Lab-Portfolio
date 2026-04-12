@@ -14,11 +14,11 @@
 </table>
 
 <p align="center">
-  <sub>⚠️ The lab file is provided in its <b>initial state</b>. Follow the log below to complete the objectives.</sub>
+  <sub>⚠️ The lab file is provided in its <b>initial state</b>. If you would like to complete the objectives, follow the log below.</sub>
 </p>
 
 ## Description
-Two hosts are connected to a common Layer 2 device but exhibit no link-layer connectivity. All interface LEDs on the switching device are dark, suggesting an absence of electrical power. Troubleshooting focuses on power sourcing, cabling integrity, and hardware failure indicators.
+Two hosts are connected to a common Layer 2 device that exhibits no link-layer connectivity. All interface LEDs on the switching device are dark, suggesting an absence of electrical power. Troubleshooting focuses on power sourcing, cabling integrity, and hardware failure indicators.
 
 ## Log
 ### Initial State
