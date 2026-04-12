@@ -46,7 +46,7 @@ Two hosts are connected to a common Layer 2 device but exhibit no link-layer con
 > - If the link remains down → Interface or connected device may be defective
 
 <kbd>
-  <img src="Elements/Bonus.png" border="1">
+  <img src="Elements/Bonus1.png" border="1">
 </kbd>
 
 <p align="center">
