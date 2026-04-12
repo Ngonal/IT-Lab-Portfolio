@@ -46,7 +46,13 @@ A range of simulators and emulators are valid options depending on lab complexit
 ## General Commands
 ### Cisco IOS / IOS XE
 - **`enable`**  
-Allows the terminal user to enter into 
+Transitions the user from `user EXEC` mode to `privileged EXEC` mode, granting access to advanced monitoring and configuration commands.
+- **`configure terminal`**  
+Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
+- **`?`**  
+Provides context-sensitive help:
+When used after a command with a space (e.g., `show ?`), it displays available subcommands or arguments.
+When used immediately after a partial command (e.g., `con?`), it attempts to complete the command or shows matching options.
 ### Juniper Junos OS
 - 
 ### Fortinet FortiOS
