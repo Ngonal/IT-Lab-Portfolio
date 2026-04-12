@@ -51,8 +51,8 @@ Transitions the user from `user EXEC` mode to `privileged EXEC` mode, granting a
 Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
 - **`?`**  
 Provides context-sensitive help:
-When used after a command with a space (e.g., `show ?`), it displays available subcommands or arguments.
-When used immediately after a partial command (e.g., `con?`), it attempts to complete the command or shows matching options.
+  When used after a command with a space (e.g., `show ?`), it displays available subcommands or arguments.
+  When used immediately after a partial command (e.g., `con?`), it attempts to complete the command or shows matching options.
 ### Juniper Junos OS
 - 
 ### Fortinet FortiOS
