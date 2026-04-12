@@ -12,6 +12,18 @@
   </tr>
 </table>
 
+## Lab File
+
+<p align="center">
+  <a href="https://github.com/Ngonal/Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Layer%201%20Outage:%20Unpowered%20Switching%20Device/Layer%201%20Outage%20Unpowered%20Switching%20Device.pkt">
+    <kbd>⬇️ Download .pkt Lab File</kbd>
+  </a>
+</p>
+
+<p align="center">
+  <sub>⚠️ The lab file is provided in its <b>initial broken state</b>. Follow the diagnosis log below to troubleshoot and restore connectivity.</sub>
+</p>
+
 ## Description
 Two hosts are connected to a common Layer 2 device but exhibit no link-layer connectivity. All interface LEDs on the switching device are dark, suggesting an absence of electrical power. Troubleshooting focuses on power sourcing, cabling integrity, and hardware failure indicators.
 
