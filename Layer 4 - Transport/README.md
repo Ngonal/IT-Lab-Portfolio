@@ -14,8 +14,6 @@ The Transport Layer provides end-to-end (application-to-application) communicati
 
 </div>
 
-## Key Concepts Demonstrated
-- 
 ## Common Commands
 ### Cisco IOS / IOS XE
 - 
