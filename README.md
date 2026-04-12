@@ -42,3 +42,12 @@ A range of simulators and emulators are valid options depending on lab complexit
 | 1 - Physical | Hubs, Repeaters, Cables, Transceivers (SFPs) | Fiber, Copper, RF (Wi-Fi PHY) | [View Labs](Layer%201%20-%20Physical) |
 
 </div>
+
+## General Commands
+### Cisco IOS / IOS XE
+- **`enable`**  
+Allows the terminal user to enter into 
+### Juniper Junos OS
+- 
+### Fortinet FortiOS
+- 
