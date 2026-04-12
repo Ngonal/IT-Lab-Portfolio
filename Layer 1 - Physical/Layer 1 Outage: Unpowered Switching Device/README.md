@@ -1,5 +1,6 @@
 # Layer 1 Outage: Unpowered Switching Device
 
+## Lab File
 <table align="center">
   <tr>
     <td align="center" style="padding: 15px;">
@@ -12,16 +13,14 @@
   </tr>
 </table>
 
-## Lab File
+<p align="center">
+  <sub>⚠️ The lab file is provided in its <b>initial broken state</b>. Follow the diagnosis log below to troubleshoot and restore connectivity.</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/Ngonal/Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Layer%201%20Outage:%20Unpowered%20Switching%20Device/Layer%201%20Outage%20Unpowered%20Switching%20Device.pkt">
     <kbd>⬇️ Download .pkt Lab File</kbd>
   </a>
-</p>
-
-<p align="center">
-  <sub>⚠️ The lab file is provided in its <b>initial broken state</b>. Follow the diagnosis log below to troubleshoot and restore connectivity.</sub>
 </p>
 
 ## Description
