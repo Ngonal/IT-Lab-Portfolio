@@ -16,11 +16,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </th>
   </tr>
-<tr>
-    <th align="left" colspan="6">
-      <b>📋 Scenario:</b> Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
-    </th>
-</tr>
   <tr>
     <th>
       Type
@@ -78,11 +73,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </th>
   </tr>
-<tr>
-    <th align="left" colspan="6">
-      <b>📋 Scenario:</b> Following the installation of two new switches, the link between them intermittently drops and re-establishes. Users report sporadic connectivity loss between segments. Interface LEDs flicker or cycle through amber/green states. One switch interface is hard-coded to 100 Mbps while the neighboring interface attempts to auto-negotiate, resulting in an unstable physical link.
-    </th>
-</tr>
   <tr>
     <th>
       Type
