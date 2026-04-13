@@ -44,7 +44,7 @@ Two hosts attempting communications are connected to a common Layer 2 device tha
 > 💡 **Quick Tips:**
 > - To isolate whether the issue is the cable or the interface, swap with a **known-good cable**:
 > - If the link comes up → Original cable was faulty
-> - If the link remains down → Interface or connected device may be defective
+> - If the link remains down → Either interface, the connected device, or both may be defective
 
 <kbd>
   <img src="Elements/Bonus1.png" border="1">
