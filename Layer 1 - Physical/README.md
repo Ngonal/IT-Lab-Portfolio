@@ -37,7 +37,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 <table style="margin-top: 8px; width: 100%; border-collapse: collapse; border: 1px solid #d0d7de;">
   <tr>
     <td style="width: 90px; padding: 12px; align="center"; font-weight: bold; background-color: #eaeef2; border-right: 1px solid #d0d7de; white-space: nowrap;">
-      <div>
+      <div align="center">
       <b>📋 Scenario:</b>
       </div>
     </td>
