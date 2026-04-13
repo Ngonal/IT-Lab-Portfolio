@@ -57,7 +57,7 @@ Provides context-sensitive help:
 - Prefix a command with `no` to negate or remove its effect. This is commonly used to disable features or delete configuration statements (e.g., `no shutdown`, `no ip address`).
 > 💡 **Quick Tip:**
 > - Press `TAB` to autocomplete a partially typed command or keyword.
-> - Use the `UP` and `DOWN` arrow keys to navigate through command history. Press `Enter` to execute a selected command..
+> - Use the `UP` and `DOWN` arrow keys to navigate through command history. Press `ENTER` to execute a selected command..
 > - Press `Ctrl + A` to move the cursor to the beginning of the command line.
 > - Press `Ctrl + E` to move the cursor to the end of the command line.
 ### Juniper Junos OS
