@@ -18,6 +18,9 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
   <tr>
     <th>
+      Name
+    </th>
+    <th>
       Type
     </th>
     <th>
@@ -34,6 +37,11 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </th>
   </tr>
   <tr>
+    <td align="center">
+      <a href="/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device">
+        Outage: Unpowered Switching Device
+      </a>
+    </td>
     <td align="center">
       Troubleshooting
     </td>
@@ -74,6 +82,9 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </th>
   </tr>
   <tr>
+    <th>
+      Name
+    </th>
     <th>
       Type
     </th>
