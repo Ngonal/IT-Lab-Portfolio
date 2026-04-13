@@ -39,7 +39,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Troubleshooting
     </td>
     <td>
-      Physical Layer, Cabling, Interface State
+      Cabling, Interface State
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
@@ -94,7 +94,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Troubleshooting
     </td>
     <td>
-      Ethernet Signaling, Auto-Negotiation, Interface Speed, Link Flapping, Physical Layer
+      Ethernet Signaling, Auto-Negotiation, Interface Speed, Link Flapping
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
