@@ -29,7 +29,11 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
       <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
       </a>
     </td>
-    <td align="center"><img src="../README%20Elements/Cisco-logo.png" width="40"></td>
+    <td align="center">
+      <a href="https://www.cisco.com" target="_blank" rel="noopener noreferrer">
+        <img src="../README%20Elements/Cisco-logo.png" width="40">
+      </a>
+    </td>
     <td>Restored network connectivity through methodical Layer 1 diagnostics and interface state remediation.</td>
   </tr>
   <tr>
