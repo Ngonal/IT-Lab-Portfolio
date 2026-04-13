@@ -63,6 +63,8 @@ Exits the current mode and returns to the previous mode.
 - **`show`**  
 Displays operational and configuration information about the device.
 Commonly used in `privileged EXEC` mode to verify status, interfaces, routing, and the current configuration (e.g., `show running-config`, `show ip interface brief`).
+- **`write`**, **`write memory`**, **`copy running-config startup-config`**  
+Displays operational and configuration information about the device.
 > 💡 **Quick Tips:**
 > - The commands available and how you interact with the device’s operating system depend on the current CLI mode.
 > - Press `TAB` to autocomplete a partially typed command or keyword.
