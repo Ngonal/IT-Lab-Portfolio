@@ -1,18 +1,6 @@
 # Outage: Unpowered Switching Device
 
 ## Lab File
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <b>📦 Lab Environment</b><br>
-      <sub>Cisco Packet Tracer</sub><br><br>
-      <a href="https://github.com/Ngonal/Networking-Lab-Portfolio/raw/main/Layer%201%20-%20Physical/Outage-Unpowered-Switching-Device/Outage-Unpowered-Switching-Device.pkt">
-        <kbd>⬇️ Download Lab File (.pkt)</kbd>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
