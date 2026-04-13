@@ -7,12 +7,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 
 <table>
   <tr>
-    <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-      <b>📋 Scenario:</b> Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
-    </th>
-  </tr>
-  
-  <tr>
     <th>Lab</th>
     <th>Type</th>
     <th>Technologies</th>
@@ -39,49 +33,12 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </td>
     <td>Restored network connectivity through methodical Layer 1 diagnostics.</td>
-</table>
-
-
-<table>
-  <tr>
+<tr>
     <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-      <b>🖥 Lab Name:</b>
-      <a href="/Layer%201%20-%20Physical/Event-Slow-Network">
-        Event: Slow Network
-      </a>
+      <b>📋 Scenario:</b> Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
     </th>
-  </tr>
-  
-  <tr>
-    <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-      <b>📋 Scenario:</b> Employees are attempting to access an email server, but they report slow speeds a day after the replacement of older switches with newer ones.
-    </th>
-  </tr>
-  
-  <tr>
-    <th>Type</th>
-    <th>Technologies</th>
-    <th>Simulator</th>
-    <th>Vendors</th>
-    <th>Key Demonstrations</th>
-  </tr>
-  <tr>
-    <td align="center">Troubleshooting</td>
-    <td>Physical Layer, Cabling, Interface State</td>
-    <td align="center">
-      <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-logo.png" width="40">
-      </a>
-    </td>
-    <td>Restored network connectivity through methodical Layer 1 diagnostics.</td>
+</tr>
 </table>
-
-
 
 
 ## Common Commands
