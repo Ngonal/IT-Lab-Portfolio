@@ -57,18 +57,23 @@
 > - If the link comes up → Original cable was faulty
 > - Link remains down → Investigate both the local port and the far-end device
 
-<table>
-  <tr >
-    <th align="center" colspan="6" style="background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-      <img src="Elements/Bonus1.png" width="70%" border="1">
-    </th>
-  </tr>
-  <tr>
-    <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-      <i>Example: Fa0/1 showing "down/down" status after issuing `no shutdown`</i>
-    </th>
-  </tr>
-<table>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
+          <img width="800" src="Elements/Bonus1.png" border="1">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th width="800" align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
+        <i>Example: Fa0/1 showing "down/down" status after issuing `no shutdown`</i>
+      </th>
+    </tr>
+  </table>
+</p>
+
 
 ## Conclusion
 The root cause was a combination of Layer 1 failures:
