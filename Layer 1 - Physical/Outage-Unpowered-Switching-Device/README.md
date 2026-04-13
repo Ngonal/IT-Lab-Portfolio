@@ -36,6 +36,16 @@
   </kbd>
 </p>
 
+<p align="center">
+  <table>
+    <tr>
+      <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 0;">
+        <img src="Elements/Step0.png" width="70%">
+      </td>
+    </tr>
+  </table>
+</p>
+
 ### Steps
 | Step | Observation | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:| 
