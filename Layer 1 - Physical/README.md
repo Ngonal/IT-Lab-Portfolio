@@ -32,11 +32,30 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 </table>
 
 
-##### 📋 Layer 1 Physical Labs
+<table>
+  <tr>
+    <th colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
+      📋 Layer 1 Physical Labs
+    </th>
+  </tr>
+  <tr>
+    <th>Lab Name</th>
+    <th>Type</th>
+    <th>Technologies</th>
+    <th>Simulator</th>
+    <th>Vendors</th>
+    <th>Key Demonstrations</th>
+  </tr>
+  <tr>
+    <td>Outage: Unpowered Switching Device</td>
+    <td align="center">Troubleshooting</td>
+    <td>Physical Layer, Cabling, Interface State</td>
+    <td align="center"><img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="24"></td>
+    <td align="center">Cisco</td>
+    <td>Restored network connectivity through methodical Layer 1 diagnostics.</td>
+  </tr>
+</table>
 
-| Lab Name | Type | Technologies | Simulator | Vendors | Key Demonstrations |
-|:---|:---|:---|:---|:---|:---|
-| Outage: Unpowered Switching Device | Troubleshooting | Physical Layer, Cabling | 🖼️ | Cisco | Restored connectivity... |
 
 ## Common Commands
 ### Cisco IOS / IOS XE
