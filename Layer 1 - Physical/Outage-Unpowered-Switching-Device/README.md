@@ -17,7 +17,11 @@
   <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
 
-## Scenario
+## Log
+### Initial State
+<p align="center">
+  <img src="Elements/Step0.png" width="70%" border="1">
+</p>
 <table>
   <tr>
     <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
@@ -25,12 +29,6 @@
     </th>
   </tr>
 </table>
-
-## Log
-### Initial State
-<p align="center">
-  <img src="Elements/Step0.png" width="70%" border="1">
-</p>
 
 ### Steps
 | Step | Observation | Action Taken | Result | Image |
