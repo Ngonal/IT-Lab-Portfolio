@@ -17,14 +17,14 @@
   <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
 
-## 📋 Scenario
+## Scenario
 <ul style="margin: 8px 0 0 0; padding-left: 20px;">
-        <li>Two hosts attempting communications are connected to a common Layer 2 device</li>
+        <li>Two hosts connected to a common Layer 2 device are unable to communicate with each other</li>
         <li>The device exhibits no link-layer connectivity</li>
         <li>All interface LEDs on the switching device are dark, suggesting an absence of electrical power</li>
 </ul>
 
-## 📖 Log
+## Log
 ### Initial State
 <p align="center">
   <img src="Elements/Step0.png" width="70%" border="1">
