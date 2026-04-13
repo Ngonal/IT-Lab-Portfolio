@@ -50,8 +50,8 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     <td>Outage: Unpowered Switching Device</td>
     <td align="center">Troubleshooting</td>
     <td>Physical Layer, Cabling, Interface State</td>
-    <td align="center"><img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="24"></td>
-    <td align="center">Cisco</td>
+    <td align="center"><img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40"></td>
+    <td align="center"><img src="../README%20Elements/Cisco-logo.png" width="40"></td>
     <td>Restored network connectivity through methodical Layer 1 diagnostics.</td>
   </tr>
 </table>
