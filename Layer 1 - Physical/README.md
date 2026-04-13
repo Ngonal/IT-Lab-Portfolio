@@ -102,6 +102,12 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </th>
   </tr>
   <tr>
+    <th align="left" colspan="6">
+      <b>🖥 Lab Name:</b>
+      <a href="/Layer%201%20-%20Physical/Speed-Mismatch-Intermittent-Link-Flapping">
+        Speed Mismatch: Intermittent Link Flapping
+      </a>
+    </th>
     <td align="center">
       Troubleshooting
     </td>
