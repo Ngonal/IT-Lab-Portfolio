@@ -13,7 +13,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     <th>Environment</th>
     <th>Vendors</th>
     <th>Key Demonstration(s)</th>
-    <th>Scenario</th>
+    <th>📋 Scenario</th>
   </tr>
   <tr>
     <td align="center">
