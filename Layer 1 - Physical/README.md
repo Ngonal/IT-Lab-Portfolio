@@ -8,7 +8,6 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
 
 # Labs
 
-
 <table>
   <tr>
     <th>Lab Name</th>
@@ -37,6 +36,32 @@ The Physical Layer defines the electrical, mechanical, and procedural specificat
 </table>
 
 
+<table>
+  <tr>
+    <th>Lab Name</th>
+    <th>Type</th>
+    <th>Technologies</th>
+    <th>Simulator</th>
+    <th>Vendors</th>
+    <th>Key Demonstrations</th>
+  </tr>
+  <tr>
+    <td><a href="/Layer%201%20-%20Physical/Layer%201%20Outage:%20Unpowered%20Switching%20Device">
+        Layer 1 Outage: Unpowered Switching Device
+      </a></td>
+    <td>Troubleshooting</td>
+    <td>Physical Layer, Cabling, Interface State</td>
+    <td align="center"><img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40"></td>
+    <td align="center"><img src="../README%20Elements/Cisco-logo.png" width="40"></td>
+    <td>Restored network connectivity through methodical Layer 1 diagnostics and interface state remediation.</td>
+  </tr>
+  <tr>
+    <td colspan="6" style="padding: 10px; background-color: #f6f8fa; border-top: 1px solid #d0d7de;" align="center">
+      <b>📋 Scenario</b><br>
+      Two hosts attempting communications are connected to a common Layer 2 device that exhibits no link-layer connectivity. All interface LEDs on the switching device are dark, suggesting an absence of electrical power.
+    </td>
+  </tr>
+</table>
 
 
 ## Common Commands
