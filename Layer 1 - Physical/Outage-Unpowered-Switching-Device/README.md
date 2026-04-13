@@ -22,15 +22,15 @@
 ### Initial State
 <p align="center">
   <table align="center">
-    <tr>
+    <tr width="800">
       <td align="center">
         <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
-          <img src="Elements/Step0.png" width="800" border="1">
+          <img src="Elements/Step0.png" border="1">
         </a>
       </td>
     </tr>
-    <tr>
-      <th width="800" align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
+    <tr width="800">
+      <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
         <b>📋 Scenario:</b> Two hosts connected to a common Layer 2 device are unable to communicate with each other. The device exhibits no link-layer connectivity, and all interface LEDs on the switching device are dark—suggesting an absence of electrical power.
       </th>
     </tr>
