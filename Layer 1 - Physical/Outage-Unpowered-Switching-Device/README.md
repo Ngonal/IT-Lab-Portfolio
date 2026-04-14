@@ -42,7 +42,7 @@
 | Step | Observation | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:| 
 | 1 | `SW1` is plugged into electrical outlet, verified electrical outlet is working using a known-good device (receptable tester/phone charger connected to phone), reconnected power cable to no effect, `SW1` power switch is in the **OFF** position | Toggled power switch to **ON** | `Fa0/2` LEDs illuminate; `Fa0/1` remains unlit | <img src="Elements/Step1.png"> |
-| 2 | Cable tester indicates a short on the far end of the link. Local RJ45 connector is seated in `SW1`'s `Fa0/1`, but the remote end is disconnected from `PC1`'s `Fa0` | Reconnected cable to `PC1`'s `Fa0` | No change; `Fa0/1` LEDs remain unilluminated | <img src="Elements/Step2.png"> |
+| 2 | TDR-enabled Cable Tester indicates a short on the far end of the link. Local RJ45 connector is seated in `SW1`'s `Fa0/1`, but the remote end is disconnected from `PC1`'s `Fa0` | Reconnected cable to `PC1`'s `Fa0` | No change; `Fa0/1` LEDs remain unilluminated | <img src="Elements/Step2.png"> |
 | 3 | `Fa0/1` is administratively down | Issued `no shutdown` on interface | Port LED illuminates; link established | <img src="Elements/Step3.png"> |
 | 4 | Both hosts have link connectivity | Tested with `ping` | Communication successful | <img src="Elements/Step4.png"> |
 
@@ -80,7 +80,7 @@ All three conditions required correction to restore full connectivity.
 > 💡 **Quick Tip(s):** A cable connects two devices. If the link doesn't come up despite a physical connection, the fault could be the cable, the local device, the remote device, or **any of their respective interfaces**. Swap with a known-good cable first:
 > - If the link comes up → Original cable was faulty
 > - Link remains down → Investigate both devices and their interfaces on each end
-> - Use a **cable tester** to quickly check for shorts, opens, or miswires on the cable run—this can reveal faults on the far end without physically accessing it
+> - Use a **TDR-enabled cable tester** to quickly check for shorts, opens, or miswires along the cable run—this can reveal faults on the far end without physically accessing it.
 
 ---
 
