@@ -30,7 +30,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </th>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
         <a href="/Layer%201%20-%20Physical/Power-Cabling-and-Interface-State">
           Power, Cabling, and Interface State
         </a>
