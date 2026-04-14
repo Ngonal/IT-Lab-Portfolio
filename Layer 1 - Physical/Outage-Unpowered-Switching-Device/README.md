@@ -57,8 +57,8 @@ All three conditions required correction to restore full connectivity.
 ### Tip #1 - The `show ip interface brief` command provides a quick health check of all interfaces. A status of **`down/down`** indicates a Layer 1 issue:
 
 - **Administratively Down / Down** — Interface is disabled with `shutdown` command
-- **Down / Down (with cable connected)** — Possible faulty cable, incorrect cable type, or defective interface
-- **Down / Down (no cable)** — No physical connection detected, self-explanatory
+- **Down / Down (with cable connected)** — Possible faulty cable, incorrect cable type/pinout, or defective devices/interfaces
+- **Down / Down (no cable)** — No physical connection detected (self-explanatory)
 
 <p align="center">
   <table align="center">
