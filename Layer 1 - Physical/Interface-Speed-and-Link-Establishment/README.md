@@ -1,4 +1,4 @@
-# Troubleshooting: Link Stability and Interface Speed
+# Troubleshooting: Interface Speed and Link Establishment
 
 ## Lab File
 
