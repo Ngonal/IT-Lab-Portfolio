@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <th align="left" colspan="6" style="padding: 10px 12px; background-color: #eaeef2; border-bottom: 1px solid #d0d7de; text-align: left;">
-        <b>📋 Scenario:</b> Two switches were recently replaced with new hardware. Following the replacement, the interswitch link intermittently drops and re-establishes — interface LEDs cycle between amber and green states, continuous pings reveal significant packet loss, and users report sporadic connectivity between the two segments. The decommissioned switches did not exhibit this behavior, suggesting the issue was introduced during hardware replacement rather than a pre-existing network fault.
+        <b>📋 Scenario:</b> Two access switches were recently replaced with new hardware. Following the replacement, the interswitch link exhibits significant packet loss and degraded throughput — continuous pings show inconsistent round-trip times and users report sporadic connectivity between segments. The decommissioned switches did not exhibit this behavior.
       </th>
     </tr>
   </table>
