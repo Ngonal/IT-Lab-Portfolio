@@ -46,8 +46,8 @@
 
 | Step | Observation | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:|
-| 1 | `show interfaces status` on `SW3` reveals `Gi1/0/1` is hard-coded to 10 Mbps; given the link is entirely down, a speed mismatch with `SW4` is suspected | Issued `speed auto` on `SW3` `Gi1/0/1` | Link remains down — `SW4` `Gi1/0/1` configuration not yet verified | <img src="Elements/Step1.png"> |
-| 2 | `show interfaces status` on `SW4` reveals `Gi1/0/1` is hard-coded to 100 Mbps — speed mismatch between switches confirmed | Issued `speed auto` on `SW4` `Gi1/0/1` | Both interfaces negotiate a common speed; link establishes and connectivity is restored | <img src="Elements/Step2.png"> |
+| 1 | `show interfaces status` on `SW3` reveals `Gi1/0/1` is hard-coded to 10 Mbps; given the link is entirely down, a speed mismatch with `SW4` is suspected | Issued `speed auto` on `SW3` `Gi1/0/1` | `SW3` negotiates to `SW4`'s hard-coded speed; link establishes | <img src="Elements/Step1.png"> |
+| 2 | `show interfaces status` on `SW4` reveals `Gi1/0/1` is hard-coded to 100 Mbps — confirms the speed mismatch that caused the initial link failure | Issued `speed auto` on `SW4` `Gi1/0/1` | Both interfaces now set to auto-negotiate; configuration normalized on both switches | <img src="Elements/Step2.png"> |
 
 ### Conclusion
 The root cause was a combination of Layer 1 failures:
