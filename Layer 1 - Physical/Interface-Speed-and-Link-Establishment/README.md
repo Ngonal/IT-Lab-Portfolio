@@ -24,9 +24,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
-          <img src="Elements/Step0.png" border="1">
-        </a>
+        <img src="Elements/Step0.png" border="1">
       </td>
     </tr>
     <tr>
