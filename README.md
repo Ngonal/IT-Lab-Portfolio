@@ -45,10 +45,8 @@ A range of simulators and emulators are valid options depending on lab complexit
 
 ## General Commands
 ### Cisco IOS / IOS XE
-- **`enable`**  
-Transitions the user from `user EXEC` mode (the initial, limited-access CLI mode) to `privileged EXEC` mode, granting access to advanced monitoring and configuration commands.
-- **`configure terminal`**  
-Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
+- **`enable`** — Transitions the user from `user EXEC` mode (the initial, limited-access CLI mode) to `privileged EXEC` mode, granting access to advanced monitoring and configuration commands.
+- **`configure terminal`** — Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
 - **`?`** — Provides context-sensitive help:
   - When used on its own or after a command with a space (e.g., `?` or `show ?`), it displays available commands, subcommands, or arguments. **`UPPERCASE`** placeholders indicate a value you must define, **`lowercase`** keywords must be entered exactly as shown.
   - When used immediately after a partial command (e.g., `con?`), it attempts to show matching options.
