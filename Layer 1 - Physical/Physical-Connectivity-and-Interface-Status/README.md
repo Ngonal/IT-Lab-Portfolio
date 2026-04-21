@@ -52,8 +52,7 @@ The root cause was a combination of Layer 1 failures:
 All three conditions required correction to restore full connectivity.
 
 ## Bonus Tips
-### Tip #1 - The `show ip interface brief` command provides a quick health check of all interfaces:
-
+### Tip #1 - The `show ip interface brief` command provides a quick health check of all interfaces. For diagnosing Layer 1 issues, check the link status and line protocol columns:
 - **Administratively Down / Down** — Interface is disabled with `shutdown` command
 - **Down / Down (no cable)** — No physical connection detected (self-explanatory)
 - **Down / Down (with cable connected)** — Cable may be damaged, connectors improperly seated, wrong cable type or pinout, or the connected devices may be defective or misconfigured
