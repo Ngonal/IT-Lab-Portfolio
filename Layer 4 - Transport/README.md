@@ -12,11 +12,15 @@ The Transport Layer (Layer 4) manages end-to-end (application-to-application) co
 </div>
 
 ## Common Commands
-### Cisco IOS / IOS XE
+### Windows (CMD / Powershell CLI)
 - 
-### Juniper Junos OS
+### Linux (Bash CLI)
 - 
-### Fortinet FortiOS
+### Cisco (IOS / IOS XE CLI)
+- 
+### Juniper (Junos OS CLI)
+- 
+### Fortinet (FortiOS CLI)
 - 
 
 ---
