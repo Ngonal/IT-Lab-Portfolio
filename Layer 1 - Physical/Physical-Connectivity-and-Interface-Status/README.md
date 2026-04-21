@@ -1,4 +1,4 @@
-# Troubleshooting: Physical Connectivity and Interface State
+# Troubleshooting: Physical Connectivity and Interface Status
 
 ## Lab File
 
