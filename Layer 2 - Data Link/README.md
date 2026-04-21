@@ -4,12 +4,60 @@
 The Data Link Layer (Layer 2) facilitates reliable node-to-node (intra-network) frame delivery within a single broadcast domain or point-to-point link. It encapsulates network-layer packets into frames, appends source and destination MAC addresses, and employs error detection (FCS/CRC) to identify corrupted frames. This layer governs media access control and handles error correction from the Physical Layer. Through switching and bridging, traffic is forwarded based on hardware addresses to the intended physical interface. In Ethernet networks, this involves MAC addressing, frame switching, and logical segmentation via VLANs.
 
 # Labs
-<div align="center">
+<table>
+  
+  
+  
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Type
+    </th>
+    <th>
+      Concepts
+    </th>
+    <th>
+      Environment
+    </th>
+    <th>
+      Vendors
+    </th>
+    <th>
+      Key Demonstrations
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="/Layer%201%20-%20Physical/Physical-Connectivity-and-Interface-Status">
+          -
+        </a>
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      -
+    </td>
+    <td align="center">
+      <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
+        <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
+        <img src="../README%20Elements/Cisco-logo.png" width="40">
+      </a>
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  
 
-| Name | Description | Simulator/Emulator | Type |
-|:---|:---|:---:|:---:|
 
-</div>
+</table>
 
 ## Common Commands
 ### Windows (CMD / Powershell CLI)
