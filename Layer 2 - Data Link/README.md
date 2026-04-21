@@ -34,10 +34,8 @@ The Data Link Layer (Layer 2) facilitates reliable node-to-node (intra-network) 
         </a>
     </td>
     <td>
-      -
     </td>
     <td>
-      -
     </td>
     <td align="center">
       <a href="">
