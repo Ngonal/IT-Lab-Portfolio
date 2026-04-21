@@ -56,7 +56,7 @@ All three conditions required correction to restore full connectivity.
 
 - **Administratively Down / Down** — Interface is disabled with `shutdown` command
 - **Down / Down (no cable)** — No physical connection detected (self-explanatory)
-- **Down / Down (with cable connected)** — Cable may be damaged, connectors improperly seated, wrong cable type or pinout, or the connected devices may be defective or misconfigured
+- **Down / Down (with cable connected)** — Cable may be damaged, connectors improperly seated, wrong cable type or pinout, or the connected devices may be defective or misconfigured — Use a **TDR** (Time Domain Reflectometer) to quickly check for shorts or opens along the cable run — this can reveal faults on the far end without physically accessing it — Most modern cable testers include built-in TDR functionality
 
 <p align="center">
   <table align="center">
