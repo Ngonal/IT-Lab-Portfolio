@@ -52,7 +52,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </a>
     </td>
     <td>
-      Restored network connectivity by identifying and resolving a powered-off switch, disconnected cable, and disabled interface.
+      Restored network connectivity by identifying and resolving a powered-off switch, a cable disconnected by an end user, and disabled interface.
     </td>
   </tr>
   
