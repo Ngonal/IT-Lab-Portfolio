@@ -54,7 +54,7 @@ All three conditions required correction to restore full connectivity.
 ## Bonus Tips
 ### Tip #1 - The `show ip interface brief` command provides a quick health check of all interfaces. A state of **`down/down`** indicates a Layer 1 issue; however, it does not definitively mean that no cable is connected. It is important to visually verify that the appropriate cable is physically connected and firmly seated in the relevant ports:
 
-- **Administratively Down / Down** — Interface is administratively disabled with `shutdown` command
+- **Administratively Down / Down** — Interface is disabled with `shutdown` command
 - **Down / Down (no cable)** — No physical connection detected (self-explanatory)
 - **Down / Down (with cable connected)** — Cable may be damaged, connectors improperly seated, wrong cable type or pinout, or the connected devices may be defective or misconfigured
 
