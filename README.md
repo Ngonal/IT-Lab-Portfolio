@@ -44,6 +44,7 @@ A range of simulators and emulators are valid options depending on lab complexit
 </div>
 
 ## General Commands
+### Linux BASH CLI
 ### Cisco IOS / IOS XE
 - **`enable`** — Transitions the user from `user EXEC` mode (the initial, limited-access CLI mode) to `privileged EXEC` mode, granting access to advanced monitoring and configuration commands.
 - **`configure terminal`** — Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
