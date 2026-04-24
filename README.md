@@ -35,7 +35,7 @@ A range of simulator, emulator, and hypervisor software are valid options depend
   </table>
 </p>
 
-# Labs
+# Projects & Labs
 
 <div align="center">
 
