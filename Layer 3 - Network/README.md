@@ -38,7 +38,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
       Provisioning
     </td>
     <td>
-      Power State Verification, Cable Integrity Assessment, Interface Status Validation
+      Subnetting Calculation and Design (FLSM), IP Address Allocation, Network Documentation, Connectivity Testing
     </td>
     <td align="center">
       <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
