@@ -86,7 +86,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
   <tr>
     <td align="center">
-      <a href="/Layer%201%20-%20Physical/Interface-Speed-and-Link-Establishment">
+      <a href="Interface-Speed-and-Link-Establishment">
         Interface Speed and Link Establishment
       </a>
     </td>
