@@ -18,7 +18,7 @@
   <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
 
-## Log
+## Action Log
 ### Initial State
 <p align="center">
   <table align="center">
@@ -36,7 +36,7 @@
 </p>
 
 
-### Steps
+### Notes
 | Step | Observations & Remarks | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:|
 | 1 | `show interfaces status` on `SW3` reveals `Gi1/0/1` is hard-coded to 10 Mbps — atypical, as interfaces are expected to auto-negotiate speed by default, and immediately suggests misconfiguration; given the link is entirely down, a speed mismatch with `SW4` is suspected | Issued `speed auto` on `SW3`'s `Gi1/0/1`; confirmed with `show interfaces Gi1/0/1 status` | `SW3` negotiates to `SW4`'s hard-coded speed; link establishes | <img src="Elements/step1.png"> |
