@@ -51,7 +51,9 @@ A variety of simulators, emulators, and hypervisors is used based on scenario co
 
 ## General Commands
 ### Windows (CMD / Powershell CLI)
-- 
+- **`ping`** —
+- **`tracert`** —
+- **`ipconfig`** —
 ### Linux (Bash CLI)
 - 
 ### Cisco (IOS / IOS XE CLI)
