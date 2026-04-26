@@ -5,6 +5,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
 
 ## Examples
 <table>
+
   
   <tr>
       <th colspan="5">Provisioning</th>
@@ -52,11 +53,6 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
 
 
   <tr>
-    <th height="50" align="left" colspan="6"></th>
-  </tr>
-
-
-  <tr>
       <th colspan="5">Maintenance</th>
   </tr>
   <tr>
@@ -95,11 +91,6 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
     </td>
     <td>
     </td>
-  </tr>
-
-
-  <tr>
-    <th height="50" align="left" colspan="6"></th>
   </tr>
 
 
@@ -143,6 +134,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
     <td>
     </td>
   </tr>
+
   
 </table>
 
