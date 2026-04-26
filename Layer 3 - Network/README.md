@@ -54,10 +54,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
       Implemented fixed-length subnetting scheme by calculating four /26 subnets from a /24 network, assigning IP addresses to router interfaces across multiple sites, and verifying end-to-end connectivity including external DNS resolution.
     </td>
   </tr>
-</table>
 
-
-<table>
   <tr>
       <th colspan="6">Maintenance</th>
   </tr>
@@ -103,9 +100,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
     <td>
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
       <th colspan="6">Troublshooting</th>
   </tr>
@@ -152,7 +147,6 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
     </td>
   </tr>
 </table>
-
 
 ## Common Commands
 ### Windows (CMD / Powershell CLI)
