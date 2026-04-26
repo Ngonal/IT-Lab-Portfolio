@@ -18,7 +18,7 @@
   <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
 
-## Log
+## Action Log
 ### Initial State
 <p align="center">
   <table align="center">
