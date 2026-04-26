@@ -4,11 +4,114 @@
 The Physical Layer (Layer 1) defines the electrical, optical, and mechanical characteristics of hardware and transmission media used for data transfer and, where applicable, power delivery. It converts digital data into signals — electrical voltages, light pulses, or radio frequencies — suitable for transmission across copper cabling, fiber-optic media, or wireless spectrum. This layer specifies cables, connectors, pinouts, signaling rates, and line coding schemes. Devices such as repeaters and hubs operate at this layer, regenerating signals to extend transmission distance. Overall, the Physical Layer focuses on hardware connectivity, signaling standards, and interface configuration.
 
 ## Examples
-
 <table>
-  
-  
-  
+  <tr>
+      <th colspan="6">Provisioning</th>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Type
+    </th>
+    <th>
+      Concepts
+    </th>
+    <th>
+      Environment
+    </th>
+    <th>
+      Vendors
+    </th>
+    <th>
+      Key Demonstrations
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="Fixed-Length-Subnetting-and-Reachability">
+          Fixed Length Subnetting and Reachability
+        </a>
+    </td>
+    <td>
+      Provisioning
+    </td>
+    <td>
+      Subnetting Calculation and Design (FLSM), IP Address Allocation, Network Documentation, Connectivity Testing
+    </td>
+    <td align="center">
+      <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
+        <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
+        <img src="../README%20Elements/Cisco-logo.png" width="40">
+      </a>
+    </td>
+    <td>
+      Implemented fixed-length subnetting scheme by calculating four /26 subnets from a /24 network, assigning IP addresses to router interfaces across multiple sites, and verifying end-to-end connectivity including external DNS resolution.
+    </td>
+  </tr>
+
+  <tr>
+    <th height="50" align="left" colspan="6"></th>
+  </tr>
+
+  <tr>
+      <th colspan="6">Maintenance</th>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Type
+    </th>
+    <th>
+      Concepts
+    </th>
+    <th>
+      Environment
+    </th>
+    <th>
+      Vendors
+    </th>
+    <th>
+      Key Demonstrations
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="">
+        </a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="40">
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="40">
+      </a>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <th height="50" align="left" colspan="6"></th>
+  </tr>
+
+  <tr>
+      <th colspan="6">Troublshooting</th>
+  </tr>
   <tr>
     <th>
       Name
@@ -56,14 +159,10 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     </td>
   </tr>
   
-  
-  
   <tr>
     <th height="25" align="left" colspan="6"></th>
   </tr>
   
-  
-
   <tr>
     <th>
       Name
@@ -110,9 +209,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Re-established interswitch connectivity by identifying and correcting a speed mismatch introduced during hardware replacement.
     </td>
   </tr>
-
-
-  
 </table>
 
 
