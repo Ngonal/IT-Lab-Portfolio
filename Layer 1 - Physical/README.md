@@ -56,9 +56,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Name
     </th>
     <th>
-      Type
-    </th>
-    <th>
       Concepts
     </th>
     <th>
@@ -75,8 +72,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
     <td align="center">
         <a href="">
         </a>
-    </td>
-    <td>
     </td>
     <td>
     </td>
