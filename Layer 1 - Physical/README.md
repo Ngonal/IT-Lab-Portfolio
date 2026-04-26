@@ -180,31 +180,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       </td>
     </tr>
   </tr>
-  
-  <tr>
-    <th height="25" align="left" colspan="6"></th>
-  </tr>
-  
-  <tr>
-    <th>
-      Name
-    </th>
-    <th>
-      Type
-    </th>
-    <th>
-      Concepts
-    </th>
-    <th>
-      Environment
-    </th>
-    <th>
-      Vendors
-    </th>
-    <th>
-      Key Demonstrations
-    </th>
-  </tr>
 </table>
 
 
