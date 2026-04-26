@@ -6,14 +6,11 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
 ## Examples
 <table>
   <tr>
-      <th colspan="6">Provisioning</th>
+      <th colspan="5">Provisioning</th>
   </tr>
   <tr>
     <th>
       Name
-    </th>
-    <th>
-      Type
     </th>
     <th>
       Concepts
@@ -35,8 +32,6 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
     </td>
     <td>
     </td>
-    <td>
-    </td>
     <td align="center">
       <a href="">
         <img src="" width="40">
@@ -50,19 +45,17 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
     <td>
     </td>
   </tr>
-</table>
 
-
-<table>
   <tr>
-      <th colspan="6">Maintenance</th>
+    <th height="50" align="left" colspan="6"></th>
+  </tr>
+
+  <tr>
+      <th colspan="5">Maintenance</th>
   </tr>
   <tr>
     <th>
       Name
-    </th>
-    <th>
-      Type
     </th>
     <th>
       Concepts
@@ -84,8 +77,6 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
     </td>
     <td>
     </td>
-    <td>
-    </td>
     <td align="center">
       <a href="">
         <img src="" width="40">
@@ -99,18 +90,17 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
     <td>
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
-      <th colspan="6">Troublshooting</th>
+    <th height="50" align="left" colspan="6"></th>
+  </tr>
+
+  <tr>
+      <th colspan="5">Troubleshooting</th>
   </tr>
   <tr>
     <th>
       Name
-    </th>
-    <th>
-      Type
     </th>
     <th>
       Concepts
@@ -132,8 +122,6 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
     </td>
     <td>
     </td>
-    <td>
-    </td>
     <td align="center">
       <a href="">
         <img src="" width="40">
@@ -148,7 +136,6 @@ The Application Layer (Layer 5) is the closest layer to the end user, acting as 
     </td>
   </tr>
 </table>
-
 
 ## Common Commands
 ### Windows (CMD / Powershell CLI)
