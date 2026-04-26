@@ -55,7 +55,9 @@ A variety of simulators, emulators, and hypervisors is used based on scenario co
 - **`tracert`** —
 - **`ipconfig`** —
 ### Linux (Bash CLI)
-- 
+- **`ping`** —
+- **`traceroute`** —
+- **`ifconfig`** —
 ### Cisco (IOS / IOS XE CLI)
 - **`enable`** — Transitions the user from `user EXEC` mode (the initial, limited-access CLI mode) to `privileged EXEC` mode, granting access to advanced monitoring and configuration commands.
 - **`configure terminal`** — Enters `global configuration` mode from `privileged EXEC` mode, allowing the user to modify the device’s running configuration.
