@@ -106,9 +106,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
       Name
     </th>
     <th>
-      Type
-    </th>
-    <th>
       Concepts
     </th>
     <th>
@@ -151,9 +148,6 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
         <a href="Interface-Speed-and-Link-Establishment">
           Interface Speed and Link Establishment
         </a>
-      </td>
-      <td>
-        Troubleshooting
       </td>
       <td>
         Link Failure Assessment, Speed Mismatch Analysis, Configuration Consistency Validation
