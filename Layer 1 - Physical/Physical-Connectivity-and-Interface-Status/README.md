@@ -18,7 +18,7 @@
   <sub>⚠️ The lab file is provided in its <b>initial state</b>. You may complete the objectives by following the log below or by working toward the result on your own.</sub>
 </p>
 
-## Log
+## Action Log
 ### Initial State
 <p align="center">
   <table align="center">
@@ -36,7 +36,7 @@
 </p>
 
 
-### Steps
+### Notes
 | Step | Observations & Remarks | Action Taken | Result | Image |
 |:---:|:---|:---|:---|:---:| 
 | 1 | `SW1` is plugged into electrical outlet, verified electrical outlet is working using a known-good device (receptable tester/phone charger connected to phone), reconnected power cable to no effect, `SW1` power switch is in the **OFF** position | Toggled power switch to **ON** | `Fa0/2` LEDs illuminate; `Fa0/1` remains unlit | <img src="Elements/step1.png"> |
