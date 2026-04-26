@@ -6,7 +6,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
 ## Examples
 <table>
   <tr>
-      <th colspan="6">Provisioning</th>
+      <th colspan="6">Maintenance</th>
   </tr>
   <tr>
     <th>
@@ -30,28 +30,24 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
   <tr>
     <td align="center">
-        <a href="Fixed-Length-Subnetting-and-Reachability">
-          Fixed Length Subnetting and Reachability
+        <a href="">
         </a>
     </td>
     <td>
-      Provisioning
     </td>
     <td>
-      Subnetting Calculation and Design (FLSM), IP Address Allocation, Network Documentation, Connectivity Testing
     </td>
     <td align="center">
-      <a href="https://www.netacad.com/resources/lab-downloads" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-Packet-Tracer-logo.png" width="40">
+      <a href="">
+        <img src="" width="40">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.cisco.com/" target="_blank" rel="noopener noreferrer">
-        <img src="../README%20Elements/Cisco-logo.png" width="40">
+      <a href="">
+        <img src="" width="40">
       </a>
     </td>
     <td>
-      Implemented fixed-length subnetting scheme by calculating four /26 subnets from a /24 network, assigning IP addresses to router interfaces across multiple sites, and verifying end-to-end connectivity including external DNS resolution.
     </td>
   </tr>
 
