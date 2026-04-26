@@ -106,7 +106,7 @@ The Physical Layer (Layer 1) defines the electrical, optical, and mechanical cha
   </tr>
 
   <tr>
-      <th colspan="6">Troublshooting</th>
+      <th colspan="6">Troubleshooting</th>
   </tr>
   <tr>
     <th>
