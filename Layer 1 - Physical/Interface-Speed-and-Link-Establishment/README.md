@@ -54,7 +54,7 @@ Setting `SW3` `Gi1/0/1`'s to autonegotiation allowed it to match `SW4`'s hard-co
 
 ## Bonus Tips
 ### Tip #1 - Hard-coded interface speeds are a red flag. Interfaces speeds are expected to be determined by autonegotiation speed by default — an explicit speed setting immediately suggests intentional or erroneous misconfiguration:
-- **`speed 10`**, **`speed 100`**, **`speed 1000`** — Forces the speed in Mbps regardless of what the other end supports
+- **`speed 10`**, **`speed 100`**, **`speed 1000`** — Forces the speed in Mbps regardless of what the remote interface is operating at
 - **`speed auto`** — Allows the interface to use autonegotiation to determine speed with the remote end (default behavior)
 
 > 💡 **Quick Tip(s):** There are rare legitimate reasons to hard-code speed — older devices that do not support autonegotiation reliably may require it. However, in modern environments both ends should always be set to `speed auto` unless there is a specific documented reason not to. If you inherit a network where speeds are hard-coded, treat it as a misconfiguration until proven otherwise.
