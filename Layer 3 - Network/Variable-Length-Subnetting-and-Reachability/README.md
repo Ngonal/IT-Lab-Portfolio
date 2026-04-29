@@ -45,10 +45,9 @@
 | 3 | Application Layer connectivity not yet verified | Visited facebook.com via web browser | HTTP response received successfully — Application Layer confirmed operational | <img src="Elements/step3.png"> |
 
 ### Conclusion
-The provisioning tasks required to establish inter-network connectivity were completed in the following order:
-1. **Subnetting:** 192.168.1.0/24 subdivided into four equal /26 subnets and network diagram amended
-2. **Addressing:** IP addresses assigned to all router interfaces within their respective subnets
-3. **Activation:** Administratively down interfaces brought up with `no shutdown`
+Variable-length subnetting was applied to the existing address space in the following order:
+1. **Host Subnetting:** 192.168.1.64/26 subdivided into four /28 subnets to maximize subnet count while supporting a minimum of 8 hosts each — 192.168.1.64/28 assigned to Site 3
+2. **Point-to-Point Subnetting:** 192.168.1.112/28 further subdivided into four /30 subnets to accommodate point-to-point links while conserving address space
 ---
 
 <p align="center">
