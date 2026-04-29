@@ -74,7 +74,7 @@ The Network Layer (Layer 3) provides logical addressing and path determination t
       </a>
     </td>
     <td>
-      Implemented fixed-length subnetting scheme by calculating four /26 subnets from a /24 network, assigning IP addresses to router interfaces across multiple sites, and verifying end-to-end connectivity including external DNS resolution.
+      Extended an existing /26 allocation using variable-length subnetting by carving four /28 subnets to meet a minimum host requirement and further subdividing the last /28 into /30s for point-to-point links, minimizing address space consumption.
     </td>  
   </tr>
 
