@@ -1,5 +1,7 @@
 # Troubleshooting: Interface Speed and Link Establishment
 
+#NEEDS REVISION - SIMULATION ISN'T ACCURATE OF REAL WORLD RESULTS
+
 ## Lab File
 
 <table align="center">
